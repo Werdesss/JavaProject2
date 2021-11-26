@@ -7,7 +7,6 @@ import java.util.Date;
 import java.util.Scanner;
 
 /**
- * @author Yusuf Mert Köseoğlu 
  * @since 12.11.2020
  */
 public class RestManApp{
